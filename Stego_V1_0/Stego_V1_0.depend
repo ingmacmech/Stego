@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1338561167 source:c:\users\marcus\desktop\stego_v1_0\stego_v1_0.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"divA.h"
+
+1338638755 source:g:\studium\2. semester\informatik 2\programme\stego_v1_0\stego_v1_0.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"divA.h"
+
+1379609693 source:d:\studium\2. semester\informatik 2\programme\stego_v1_0\stego_v1_0.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"divA.h"
+
